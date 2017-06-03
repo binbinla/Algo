@@ -1,2 +1,3 @@
 browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n</web-browsers>
 eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/structs_login/hello.do|*|http\://localhost\:8080/structs_login/|*|http\://localhost\:8080/structs_login/login.do|*|http\://localhost\:8080/login.do|*|http\://localhost\:8080/structs_login/login|*|http\://localhost\:8080/structs_login/index.jsp|*|http\://localhost\:8080/structs_login/login_success.jsp|*|http\://localhost\:8080/structs_login/login_error.jsp|*|http\://localhost\:8080/structs_login/login_error|*|http\://localhost\:8080/structs_login/web.xml|*|
